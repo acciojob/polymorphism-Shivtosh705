@@ -2,9 +2,9 @@ package com.driver;
 
 public class Main {
 
-<<<<<<< HEAD
-}
-=======
+
+
+
   public static class Product{
       public int product(int x,int y){
           return x*y;
@@ -24,4 +24,3 @@ public class Main {
     }
 }
 
->>>>>>> 5ce57cf (Initial commit)
